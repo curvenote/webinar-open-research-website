@@ -1,6 +1,7 @@
 # Pixels and Their Neighbours
 
 By: Rowan Cockett, Lindsey Heagy, Doug Oldenburg
+
 This article was originally published in the Leading Edge ([Cockett et al., 2016](http://library.seg.org/doi/10.1190/tle35080703.1)) and is licensed under [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) (see below for more details). Associated notebooks are available on [GitHub](https://github.com/seg/tutorials-2016/tree/master/1608_Finite_volume) and can be run online with [MyBinder](http://mybinder.org/repo/simpeg/tle-finitevolume).
 
 In this tutorial we take you on the journey from continuous equations to their discrete matrix representations using the finite volume method for the Direct Current (DC) resistivity problem. These techniques are widely applicable across geophysical simulation types and have their parallels in finite element and finite difference. We show derivations visually, as you would on a whiteboard, and have provided an accompanying notebook to explore the numerical results using [SimPEG](http://simpeg.xyz/).
